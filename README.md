@@ -4,4 +4,4 @@ UploadAndDownloadDocuments application is to upload and download the documents f
 
 
 
-Environment : J2EE, Java, Spring Tool Suite, JSP, JDBC, JSTL, JPA, Spring 4.0, slf4j, REST, Tomcat-Embed-Jasper, MySql, Spring web.
+Environment : J2EE, Java, Spring Tool Suite, JSP, JDBC, JSTL, JPA, Spring 4.0, REST, Tomcat-Embed-Jasper, MySql, Spring web.
